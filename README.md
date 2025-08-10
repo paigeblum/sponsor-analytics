@@ -4,7 +4,7 @@ A demo for sponsor-side event analytics, using Twisted Tea as the mock sponsor.
 
 ## Run locally
 1) Install **Node.js (LTS)**.
-2) In this folder: Live-Time-Sponsor-Demo
+2) In this folder: 
 ```bash ie open your terminal and enter
 npm install
 npm run dev
