@@ -11,7 +11,7 @@ npm run dev
 ```
 3) Open the printed URL (should be http://localhost:5173).
 
-## Platform Overview // Why I buil tit
+## Platform Overview // Why I built it
 This demo is built around a simple idea: brands want to know if their sponsorships are working without turning events into data-collection marathons. Sponsors should be able to log in, click an event, and instantly see the key signals that tell them whether their investment paid off. I built this because it is an easy way to deliverable key insights to sponsors and is essential to the overall growth of Live Tiime.
 
 Right now, the platform:
